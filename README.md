@@ -1,5 +1,6 @@
 # Let-s-start-microcomputer-in-hardmode-samples
-
+## 回路例
+![回路例](https://github.com/zilmina/Let-s-start-microcomputer-in-hardmode-samples/blob/master/image/circuit.png)
 ## 使い方
 このリポジトリには5つのサンプルプロジェクトを/sample以下に収めています。
 利用時には
@@ -30,3 +31,11 @@
  * スタートを選択
  * 書き込み終了まで待機
  * 電源を入れなおすとプログラムが実行されます！
+
+## e2studioでサンプルプロジェクトを編集したい場合
+e2studioはワークスペースにプロジェクトを配置しただけではプロジェクトファイルがあることすら認識されません。
+ * gitのファイルを「パス名に日本語が入らない」位置に配置
+ * ワークスペースを「samples/」に指定
+ * 左上の「ファイル(F)」から「ファイル・システムからプロジェクトを開く」を選択
+ * ディレクトリから今回開きたいプロジェクトのファイルを選択
+ * 終了を選択
