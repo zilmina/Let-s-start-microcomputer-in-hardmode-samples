@@ -1,5 +1,6 @@
 # Let-s-start-microcomputer-in-hardmode-samples
-
+## 回路例
+![回路例](https://github.com/zilmina/Let-s-start-microcomputer-in-hardmode-samples/blob/master/image/circuit.png)
 ## 使い方
 このリポジトリには5つのサンプルプロジェクトを/sample以下に収めています。
 利用時には
